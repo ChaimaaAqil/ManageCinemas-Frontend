@@ -1,0 +1,19 @@
+.clickable{
+  cursor: pointer;
+}
+.image{
+  width: 160px;
+  height: 245px;
+}
+.ticket{
+  margin: 5px;
+  width: 40px;
+}
+.centrer{
+  text-align: center;
+  background-color: firebrick;
+}
+.back{
+  background-color:gray;
+  text-decoration-color: white;
+}
